@@ -4,9 +4,11 @@ TO DO LEARN
 + BULMA
 - HTML
 - CSS
+ +bootstrap
+ +bulam edit
 - SQl
 - Python
 - Comit Belajar
 - belajar everyday
 - stay hungry stay foolish
-- Structur Data
+
