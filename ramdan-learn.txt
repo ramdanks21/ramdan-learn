@@ -6,6 +6,8 @@ TO DO LEARN
 - CSS
 - SQl
 - Python
+  + panda
+  + numpy
 - Comit Belajar
 - belajar everyday
 - stay hungry stay foolish
