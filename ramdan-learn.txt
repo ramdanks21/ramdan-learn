@@ -5,6 +5,8 @@ TO DO LEARN
 - HTML
 - CSS
 - SQl
+- Python
 - Comit Belajar
 - belajar everyday
 - stay hungry stay foolish
+- Structur Data
